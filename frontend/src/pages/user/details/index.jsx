@@ -13,7 +13,7 @@ import DownloadIcon from '@mui/icons-material/Download'
 import LanguageIcon from '@mui/icons-material/Language'
 import PersonIcon from '@mui/icons-material/Person'
 
-import './Details.css'
+import './details.css'
 
 function Details() {
   const [book, setBook] = useState(null)

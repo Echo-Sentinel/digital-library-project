@@ -10,7 +10,7 @@ import ArrowBackIcon from '@mui/icons-material/ArrowBack'
 import MenuBookIcon from '@mui/icons-material/MenuBook'
 import OpenInNewIcon from '@mui/icons-material/OpenInNew'
 
-import './Reader.css'
+import './reader.css'
 
 function Reader() {
   const [book, setBook] = useState(null)
