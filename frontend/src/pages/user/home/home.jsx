@@ -8,7 +8,7 @@ import MenuBookIcon from '@mui/icons-material/MenuBook'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
 import LibraryBooksIcon from '@mui/icons-material/LibraryBooks'
 
-import './Home.css'
+import './home.css'
 
 function Home() {
   return (
